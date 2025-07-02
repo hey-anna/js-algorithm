@@ -1,5 +1,8 @@
 # BOJ 1920 - 수 찾기 - 문제
 
+🔗 [문제 링크 바로가기](https://www.acmicpc.net/problem/1920)
+📝 [참고 블로그](https://velog.io/@yoseoplee/JS%EB%A1%9C-%ED%91%B8%EB%8A%94-%EB%B0%B1%EC%A4%80-1920.-%EC%88%98-%EC%B0%BE%EA%B8%B0)
+
 ## 문제
 
 N개의 정수 A[1], A[2], ..., A[N]이 주어져 있을 때,  
