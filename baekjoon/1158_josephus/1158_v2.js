@@ -1,3 +1,5 @@
+// index-splice
+
 function josephus(n, k) {
   const people = Array.from({ length: n }, (_, i) => i + 1); // [1, 2, ..., n]
   const result = [];
